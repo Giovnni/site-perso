@@ -1,0 +1,135 @@
+{
+    "navbar": {
+        "section1": "Home",
+        "section2": "Experiences & Education",
+        "section3": "Completed Projects",
+        "section4": "Skills",
+        "section5": "Languages"
+    },
+
+    "accueil": {
+        "part1": "Hello !",
+        "part2": "My name is ",
+        "part3": "I am a student at ",
+        "part3-1": "mastering in Business Engineering with a speciality in Software Development",
+        "part4": "I am looking for a ",
+        "part4-1": "end of studies internship ",
+        "part4-2": "(6 months) as a ",
+        "part4-3": "Front-End Web Developer"
+    },
+
+    "about-me": {
+        "part1-1": "After spending 5 years at ISEN Lille, I have developed various skills, both technically and relationally, that allowed me to adapt myself all along my studies on the projects I worked on. Thanks to this teaching, I improved my ",
+        "bold1-1": "adaptability and learning ability ",
+        "part1-2": "as well as my working efficiency.",
+        "part2-1": "About me, I am always looking to ",
+        "bold2-1": "evolve and learn new things",
+        "part2-2": ", I like to take on challenges. I enjoy discovering new cultures and places, I regularly practice sports which are, in my opinion, synonymous of ",
+        "bold2-2": "overtaking",
+        "part2-3":"."
+    },
+
+    "experience-titre": "Experiences & Education",
+
+    "experience":[
+        {
+            "titre": "Engineering Course - Business Engineering and Software Development",
+            "entreprise": "ISEN (Institute of Electronics and Digital Engineering), France",
+            "dates": "Sept. 2015 - Sept. 2020",
+            "description": "Master 2 Student in business engineering with a speciality in software development",
+            "logo":{
+                "image": "https://www.giovanni-haddadi.com/static/media/logo-isen.png",
+                "alt": "Logo ISEN Lille",
+                "lien": "https://www.isen-lille.fr/"
+            }
+        },
+        {
+            "titre": "Student Exchange Program - ICT Software Engineering",
+            "entreprise": "Chung-Ang University, South Korea",
+            "dates": "Feb. 2019 - Jul. 2019",
+            "description": "Exchange student during one semester with a major in Computer Science",
+            "logo":{
+                "image": "https://www.giovanni-haddadi.com/static/media/logo-CAU.png",
+                "alt": "Logo Chung-Ang University",
+                "lien": "https://neweng.cau.ac.kr/index.do"
+            }
+        },
+        {
+            "titre": "Student Ambassador",
+            "entreprise": "Yncrea Hauts-de-France, Lille, France",
+            "dates": "Sept. 2017 - Jul. 2018",
+            "description": "Promoting the school in exhibitions and forums, helping and informing prospective students and families at school events",
+            "logo":{
+                "image": "https://www.giovanni-haddadi.com/static/media/logo-isen.png",
+                "alt": "Logo ISEN Lille",
+                "lien": "https://www.isen-lille.fr/"
+            }
+        },
+        {
+            "titre": "Summer Camp Leader",
+            "entreprise": "Autrement Loisirs et Voyages, Vagney, France",
+            "dates": "Feb. 2017 and Jul. 2017",
+            "description": "Leading and supporting a group of children aged between 6 and 14 years old and managing age-appropriate games and activities",
+            "logo":{
+                "image": "https://www.giovanni-haddadi.com/static/media/logo-ALV.png",
+                "alt": "Logo Autrement Loisirs et Voyages",
+                "lien": "http://www.tootazimut.fr/"
+            }
+        },
+        {
+            "titre": "Order Picker",
+            "entreprise": "EPHIGEA, Neuvile-en-Ferrain, France",
+            "dates": "Aug. 2016",
+            "description": "Wraping orders before loading on trucks and monitoring product storage and dispatch",
+            "logo":{
+                "image": "https://www.giovanni-haddadi.com/static/media/logo-GDM.png",
+                "alt": "Logo Grain de Malice",
+                "lien": "https://www.graindemalice.fr/"
+            }
+        }
+    ],
+
+    "projet": {
+        "titre-section": "Completed Projects",
+
+        "titre1": "Implementation of a compiler",
+        "titre2": "Audio monitoring of system and networks",
+        "titre3": "Waterlife - E-commerce website of water bottles",
+        "titre4": "FishtNess - Connected fish tank",
+
+        "description1": "Creation of a lexical and syntax analyzer. The aim of this project was to collect a piece of code from a text file and then to decompose it character by character to recognize every element from the code. We then had to compare those elements to a pre-defined list.",
+        "description2": "We created a program using Pure-Data. We had to create the scripts files that were collecting the system and network changes information. Then the objective was to sonify those changes so the user can interpret what is happening on his machine. We ended up the project by creating the user interface in order to allow anyone to use the program.",
+        "description3": "Creation from scratch of an e-commerce website. The constraints was to ONLY use HTML, CSS and PHP while using MySQL for the database.",
+        "description4": "Elaboration of a connected fish tank using a web platform called Constellation. We modelized and printed 3D parts to manage the storage and the distribution of fish food. We also created a web page on which were displayed information about water, and the fish tank in general and we added some buttons that allowed the user to interact with his fish tank by switching the light on and off or giving the food manually. The web page was hosted on web server that was installed on a Raspberry Pi."
+    },
+
+    "competence":{
+        "titre-section": "Skills",
+
+        "titre1": "Technical Skills",
+        "titre2": "Personal Skills",
+
+        "skill1": "Team Work",
+        "skill2": "Adaptability",
+        "skill3": "Persevering",
+        "skill4": "Patient",
+        "skill5": "Curious",
+        "skill6": "Open Minded"
+    },
+
+    "langue": {
+        "titre-section": "Languages",
+
+        "nom1": "French",
+        "nom2": "English",
+
+        "niveau1": "Mother Tongue",
+        "niveau2": "Professional"
+    },
+
+    "footer": {
+        "download": "Resume",
+        "nom-fichier": "Resume_HADDADI_Giovanni",
+        "chemin-cv": "https://www.giovanni-haddadi.com/static/files/CV_EN.pdf"
+    }
+}

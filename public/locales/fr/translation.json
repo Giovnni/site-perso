@@ -1,0 +1,136 @@
+{
+    "navbar": {
+        "section1": "Accueil",
+        "section2": "Expériences & Formations",
+        "section3": "Projets Réalisés",
+        "section4": "Compétences",
+        "section5": "Langues"
+    },
+
+    "accueil": {
+        "part1": "Bonjour !",
+        "part2": "Je m'appelle ",
+        "part3": "Je suis étudiant à l'",
+        "part3-1": "en M2 ingénieurie d'affaires spécialité développement logiciel",
+        "part4": "Je suis à la recherche d'un ",
+        "part4-1": "stage de fin d'études ",
+        "part4-2": "(6 mois) en tant que ",
+        "part4-3": "Développeur Web Front-End"
+    },
+
+    "about-me": {
+        "part1-1": "Étudiant depuis 5 années à l’ISEN Lille, j’ai pu développer durant mon parcours diverses compétences, à la fois sur le plan technique que relationnel, qui m’ont permis de m’adapter tout au long de mes études aux différents projets auxquels j’ai participé. Grâce à cet enseignement, j’ai amélioré ma ",
+        "bold1-1":"capacité d'apprentissage et d'adaptation ",
+        "part1-2": "ainsi que ma façon de travailler.",
+        
+        "part2-1": "Me concernant, je cherche toujours à ",
+        "bold2-1": "évoluer et apprendre de nouvelles choses",
+        "part2-2": ", j’aime relever de nouveaux défis. Je suis très intéressé par la découverte de nouvelles cultures ainsi que de nouveaux lieux et je pratique régulièrement des activités sportives qui sont synonymes de ",
+        "bold2-2": "dépassement ",
+        "part2-3": "à mes yeux."
+    },
+
+    "experience-titre": "Expériences & Formations",
+
+    "experience":[
+        {
+            "titre": "Cycle ingénieur - Ingénieur d'affaires spécialité développement logiciel",
+            "entreprise": "ISEN (Institut supérieur de l'électronique et du numérique), France",
+            "dates": "Sept. 2015 - Sept. 2020",
+            "description": "Master 2 d’Ingénierie d'affaires avec une spécialité en développement logiciel",
+            "logo":{
+                "image": "https://www.giovanni-haddadi.com/static/media/logo-isen.png",
+                "alt": "Logo ISEN Lille",
+                "lien": "https://www.isen-lille.fr/"
+            }
+        },
+        {
+            "titre": "Student Exchange Program - ICT Software Engineering",
+            "entreprise": "Chung-Ang University, Corée du Sud",
+            "dates": "Févr. 2019 - Juill. 2019",
+            "description": "Semestre d'échange à l'international en majeure Computer Science",
+            "logo":{
+                "image": "https://www.giovanni-haddadi.com/static/media/logo-CAU.png",
+                "alt": "Logo Chung-Ang University",
+                "lien": "https://neweng.cau.ac.kr/index.do"
+            }
+        },
+        {
+            "titre": "Ambassadeur ISEN",
+            "entreprise": "Yncrea Hauts-de-France, Lille, France",
+            "dates": "Sept. 2017 - Juill. 2018",
+            "description": "Promotion de l'école dans les salons et les forums et accompagnement des étudiants et de leur famille lors des portes ouvertes",
+            "logo":{
+                "image": "https://www.giovanni-haddadi.com/static/media/logo-isen.png",
+                "alt": "Logo ISEN Lille",
+                "lien": "https://www.isen-lille.fr/"
+            }
+        },
+        {
+            "titre": "Animateur d'accueil de loisirs",
+            "entreprise": "Autrement Loisirs et Voyages, Vagney, France",
+            "dates": "Févr. 2017 et Juill. 2017",
+            "description": "Encadrement d'enfants âgés de 6 à 14 ans en colonie de vacances et organisation de jeux et d'activités",
+            "logo":{
+                "image": "https://www.giovanni-haddadi.com/static/media/logo-ALV.png",
+                "alt": "Logo Autrement Loisirs et Voyages",
+                "lien": "http://www.tootazimut.fr/"
+            }
+        },
+        {
+            "titre": "Préparateur de commandes",
+            "entreprise": "EPHIGEA, Neuvile-en-Ferrain, France",
+            "dates": "Août 2016",
+            "description": "Préparation des livraisons et des expéditions ainsi que l'organisation du rangement des stocks restants sur palettes et dans l'entrepôt",
+            "logo":{
+                "image": "https://www.giovanni-haddadi.com/static/media/logo-GDM.png",
+                "alt": "Logo Grain de Malice",
+                "lien": "https://www.graindemalice.fr/"
+            }
+        }
+    ],
+
+    "projet": {
+        "titre-section": "Projets Réalisés",
+
+        "titre1": "Implémentation d'un compilateur",
+        "titre2": "Monitoring audio des sytèmes et réseaux",
+        "titre3": "Waterlife - Site e-commerce de bouteilles d'eau",
+        "titre4": "FishtNess - Aquarium Connecté",
+
+        "description1": "Création d'un analyseur lexical ainsi que d'un analyseur synthaxique. L'objectif de ce projet était de récupérer un morceau de code dans un fichier texte et ensuite de le décomposer caractère par caractère pour reconnaître chaque élément de notre code que nous comparions ensuite à une liste pré-définie de tokens. Par la suite, nous avons codé l'analyseur synthaxique.",
+        "description2": "Création de scripts shell sous Linux dans le but de collecter des données sur le système et de son réseau ainsi que la réalisation d'une IU sur Pure-Data.",
+        "description3": "Création d'un site e-commerce en partant de 0 avec pour contrainte de n'utiliser que le HTML, le CSS et le PHP.",
+        "description4": "Élaboration d'un aquarium connecté à partir de la plateforme Constellation. Modélisation et impression de pièces 3D pour gérer le stockage et la distribution de nourriture des poissons. Mise en place d'une page web permettant d'intéragir avec l'aquarium et d'y regrouper les données de celui-ci et création d'un serveur web pour permettre d'y héberger notre projet et le rendre accessible depuis n'importe où."
+    },
+
+    "competence":{
+        "titre-section": "Compétences",
+
+        "titre1": "Compétences Techniques",
+        "titre2": "Compétences Personnelles",
+
+        "skill1": "Travail en équipe",
+        "skill2": "Capacité d'adaptation",
+        "skill3": "Persévérant",
+        "skill4": "Patient",
+        "skill5": "Curieux",
+        "skill6": "Ouvert d'esprit"
+    },
+
+    "langue": {
+        "titre-section": "Langues",
+
+        "nom1": "Français",
+        "nom2": "Anglais",
+
+        "niveau1": "Langue Maternelle",
+        "niveau2": "Professionnel"
+    },
+
+    "footer": {
+        "download": "Mon CV",
+        "nom-fichier": "CV_HADDADI_Giovanni",
+        "chemin-cv": "https://www.giovanni-haddadi.com/static/files/CV_FR.pdf"
+    }
+}
